@@ -1,0 +1,111 @@
+{
+  "requests": [
+    {
+      "id": "1",
+      "name": "Carlos Lima",
+      "items": [
+        "Cobertores"
+      ],
+      "address": "Rua Principal, 123",
+      "phone": "123456789",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "name": "Ana Pereira",
+      "items": [
+        "Remédios"
+      ],
+      "address": "Av. das Flores, 456",
+      "phone": "987654321",
+      "status": "pending"
+    }
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "donorName": "João Silva",
+      "items": [
+        "Roupas"
+      ],
+      "location": "Rua das Oliveiras, 789",
+      "phone": "123456789",
+      "available": true
+    },
+    {
+      "id": "2",
+      "donorName": "Maria Souza",
+      "items": [
+        "Alimentos"
+      ],
+      "location": "Av. das Flores, 456",
+      "phone": "987654321",
+      "available": true
+    },
+    {
+      "id": "c487",
+      "donorName": "Gelson Amadeu",
+      "location": "benfica",
+      "phone": "7683628",
+      "items": [
+        "arroz",
+        "fuba"
+      ],
+      "available": true
+    },
+    {
+      "id": "981b",
+      "donorName": "Helder Pereira",
+      "location": "samba",
+      "phone": "9863573",
+      "items": [
+        "camisa",
+        "sapato",
+        "tomate",
+        "cebola"
+      ],
+      "available": true
+    },
+    {
+      "id": "4f76",
+      "donorName": "Juarez Henriques",
+      "location": "zango",
+      "phone": "86782652",
+      "items": [
+        "cenouras",
+        "cebolas",
+        "roupas"
+      ],
+      "available": true
+    }
+  ],
+  "collectionPoints": [
+    {
+      "id": "1",
+      "name": "Centro Comunitário",
+      "address": "Rua Principal, 123",
+      "coordinates": [
+        -23.55052,
+        -46.633308
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Igreja São José",
+      "address": "Av. das Flores, 456",
+      "coordinates": [
+        -23.555994,
+        -46.639431
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ONG Alimentos Solidários",
+      "address": "Rua das Oliveiras, 789",
+      "coordinates": [
+        -23.557994,
+        -46.641431
+      ]
+    }
+  ]
+}
