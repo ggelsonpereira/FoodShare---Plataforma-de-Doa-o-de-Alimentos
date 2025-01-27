@@ -19,6 +19,17 @@
       "address": "Av. das Flores, 456",
       "phone": "987654321",
       "status": "pending"
+    },
+    {
+      "id": "6240",
+      "name": "Gelson Pereira Amadeu",
+      "address": "benfica",
+      "phone": "932496307",
+      "items": [
+        "roupas",
+        "arroz"
+      ],
+      "status": "pending"
     }
   ],
   "offers": [
@@ -75,6 +86,18 @@
         "cenouras",
         "cebolas",
         "roupas"
+      ],
+      "available": true
+    },
+    {
+      "id": "b89f",
+      "donorName": "Helder Pereira Kebe",
+      "location": "samba",
+      "phone": "932465776",
+      "items": [
+        "arroz",
+        "feijao",
+        "massa"
       ],
       "available": true
     }
